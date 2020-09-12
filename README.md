@@ -1,2 +1,2 @@
 # pythonbasic
-arcoding to computer coding python projects for kid 
+based on computer coding python projects for kid author carol vorderman
